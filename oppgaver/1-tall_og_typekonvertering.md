@@ -42,16 +42,12 @@ Kodeblokken nedenfor inneholder noen variabler. Konverter alle til `int`. **Merk
 a = '1'
 b = True
 c = False
-d = '1.5'
-e = '2,45'
 
 # Skriv koden din her
 
 print(f'a er nå {a}')
 print(f'b er nå {b}')
 print(f'c er nå {c}')
-print(f'd er nå {d}')
-print(f'e er nå {e}')
 ```
 
 Hvis du har gjort alt rett, skal kodeblokken over skrive ut:
@@ -60,8 +56,6 @@ Hvis du har gjort alt rett, skal kodeblokken over skrive ut:
 a er nå 1
 b er nå 1
 c er nå 0
-d er nå 1
-e er nå 2
 ```
 
 
