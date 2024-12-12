@@ -96,14 +96,14 @@ print(antall_uker_dager(15))
 
 
 ## c) Bruk av heltallsdivisjon og modulo
-Lag tre funksjoner `antall_minutt(sekunder)`, `antall_dogn(timer)` og `antall_timer_minutt(sek)`, som gjør om sekunder til hele minutter, timer til hele døgn og sekunder til timer og minutter.
+Lag tre funksjoner `antall_minutt(sekunder)`, `antall_dogn(timer)` og `antall_timer_minutt(minutter)`, som gjør om sekunder til hele minutter, timer til hele døgn og minutter til timer og resterende minutter.
 
 ```python
 # Definer funksjonene dine her
 
 print(antall_minutt(120)) # skal gi 2
 print(antall_dogn(75)) # skal gi 3
-print(antall_timer_minutt(19832)) # skal gi (5, 32)
+print(antall_timer_minutt(172)) # skal gi (2, 52)
 ```
 
 ## d) Partall
