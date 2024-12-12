@@ -7,7 +7,7 @@ Rett utskrift skal være: `25`
 def legg_sammen_to_tall(a, b):
     return str(a) + str(b)
 
-legg_sammen_to_tall(10, 15)
+print(legg_sammen_to_tall(10, 15))
 ```
 
 
