@@ -57,7 +57,6 @@ print(f(10)) # skal gi 21
 print(g(5)) # skal gi -0.6428571428571429
 print(h(3)) # skal gi 16
 print(i(4)) # skal gi 2.0
-print(j(5)) # skal gi -0.6752620891999122
 ```
 
 ## Tutorial: Heltallsdivisjon og modulo
